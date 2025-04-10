@@ -66,3 +66,5 @@ The project leverages several npm packages to enhance functionality and user exp
 ### Utilities
 - **Lodash**: Provides utility functions for debouncing and other operations.
 
+### Deployed link
+https://mood-explorer.vercel.app/
